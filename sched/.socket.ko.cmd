@@ -1,0 +1,1 @@
+cmd_/home/park/Desktop/sock/sched/socket.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/park/Desktop/sock/sched/socket.ko /home/park/Desktop/sock/sched/socket.o /home/park/Desktop/sock/sched/socket.mod.o ;  true
